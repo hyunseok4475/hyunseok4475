@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:91A6CF,100:F7CAC9&height=100&section=header&text=Someday,I'll%20be%20Developer&fontSize=30&fontColor=ffffff)
 
-<!--
-**hyunseok4475/hyunseok4475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :page_facing_up:  쓱싹쓱싹
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&?logo=appveyor&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-563DAC?style=for-the-badge&?logo=appveyor&logo=Kotlin&logoColor=white"/>
 
-Here are some ideas to get you started:
+### :bookmark:  끼적끼적
+<img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&?logo=appveyor&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/ObjectivC-000000?style=for-the-badge&?logo=appveyor&logo=C&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :date: 언젠가?
+
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:91A6CF,100:F7CAC9&height=100&section=footer)
