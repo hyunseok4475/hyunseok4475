@@ -7,7 +7,3 @@
 <img src="https://img.shields.io/badge/Swift-F15137?style=for-the-badge&?logo=appveyor&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/ObjectivC-000000?style=for-the-badge&?logo=appveyor&logo=C&logoColor=white"/>
 
 ### :date: 언젠가?
-
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:91A6CF,100:F7CAC9&height=100&section=footer)
